@@ -1,5 +1,8 @@
 # Data
-/data/
+/data/*
+!/data/raw/
+/data/raw/*
+!/data/raw/SouthGermanCredit.asc
 
 # Mac OS-specific storage files
 .DS_Store
